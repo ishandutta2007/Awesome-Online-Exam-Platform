@@ -2,9 +2,15 @@
   <img src="assets/banner.svg" alt="Awesome Online Exam Platform Banner" width="100%" />
 </div>
 
-# Awesome-Online-Exam-Platform
+# Awesome Online Exam Platform - Top Assessment & Proctoring Software
 
-# 🚀 Similar Projects to Online Exam Platforms
+<div align="center">
+  <!-- Badges will go here -->
+</div>
+
+**Awesome Online Exam Platform** is a curated list of the best online examination systems, remote proctoring software, computer-based assessment (CBA) platforms, and open-source testing solutions for education and corporate hiring.
+
+## 🚀 Similar Projects to Online Exam Platforms
 
 🎓 **Online Exam Platforms** enable organizations to create, deliver, proctor, and grade secure online assessments, quizzes, and high-stakes exams. Features typically include question banks, timed tests, remote proctoring, lockdown browsers, analytics, and candidate management. Leading commercial platforms include Mercer Mettl, TestGorilla, Exam.net, Digiexam, ExamSoft, Honorlock, ProctorU, Inspera, Questionmark, and TestReach.
 
