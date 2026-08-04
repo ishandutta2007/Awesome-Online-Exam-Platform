@@ -8,9 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Mercer Mettl](https://mettl.com/)** — Comprehensive online assessment and proctoring platform widely used for hiring, certification, and education.
-- **[TestGorilla](https://www.testgorilla.com/)**, **[Exam.net](https://exam.net/)**, **[Digiexam](https://www.digiexam.com/)**, **[ExamSoft](https://examsoft.com/)**, **[Inspera](https://www.inspera.com/)**, **[Questionmark](https://www.questionmark.com/)**, **[TestReach](https://www.testreach.com/)** — Online exam delivery, digital assessment, and secure testing platforms.
-- **[Honorlock](https://honorlock.com/)**, **[ProctorU](https://www.proctoru.com/)** (Meazure Learning) — Specialized remote proctoring and exam integrity solutions.
+| Platform | Description | Pricing / Free Tier |
+| :--- | :--- | :--- |
+| **[Mercer Mettl](https://mettl.com/)** | Comprehensive online assessment and proctoring platform widely used for hiring, certification, and education. | Custom pricing, no free tier |
+| **[TestGorilla](https://www.testgorilla.com/)** | Online exam delivery, digital assessment, and secure testing platform. | Paid plans + Free Tier (10 credits/month, 5 tests limit) |
+| **[Exam.net](https://exam.net/)** | Online exam delivery, digital assessment, and secure testing platform. | Custom pricing, 30-day free trial |
+| **[Digiexam](https://www.digiexam.com/)** | Online exam delivery, digital assessment, and secure testing platform. | Custom pricing, no free tier |
+| **[ExamSoft](https://examsoft.com/)** | Online exam delivery, digital assessment, and secure testing platform. | Custom pricing, no free tier |
+| **[Inspera](https://www.inspera.com/)** | Online exam delivery, digital assessment, and secure testing platform. | Custom pricing, no free tier |
+| **[Questionmark](https://www.questionmark.com/)** | Online exam delivery, digital assessment, and secure testing platform. | Custom pricing, no free tier |
+| **[TestReach](https://www.testreach.com/)** | Online exam delivery, digital assessment, and secure testing platform. | Custom pricing, no free tier |
+| **[Honorlock](https://honorlock.com/)** | Specialized remote proctoring and exam integrity solutions. | Custom pricing, no free tier |
+| **[ProctorU](https://www.proctoru.com/)** (Meazure Learning) | Specialized remote proctoring and exam integrity solutions. | Custom pricing, no free tier |
 
 ## 🔓 Open-Source Software
 
