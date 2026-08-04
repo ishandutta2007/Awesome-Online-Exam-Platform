@@ -24,10 +24,10 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ## 🔓 Open-Source Software
 
 ### Full Open-Source Assessment & Exam Platforms
-- **[Moodle](https://moodle.org/)** — The most widely used open-source LMS, featuring a mature Quiz engine, extensive question types, question banks, and strong community support. Can be hardened for secure exams with **Safe Exam Browser** and proctoring plugins.
-- **[TCExam](https://github.com/tecnickcom/tcexam)** — Dedicated open-source Computer-Based Assessment (CBA) system for creating, scheduling, delivering, and reporting on quizzes, tests, and exams. Lightweight, self-hosted, and focused purely on assessment.
-- **[TAO Testing](https://www.taotesting.com/)** — Open-source assessment platform with strong support for open standards (especially QTI). Used by educational institutions and testing organizations that need portable, standards-based item banks.
-- **[QST](https://github.com/bobb34/QST)** (Quiz/Survey/Test) — Feature-rich open-source multi-tenant assessment platform supporting many question types, scheduling, results, and self-hosting.
+- **[Moodle](https://moodle.org/)** [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle.svg?style=social&color=white)](https://github.com/moodle/moodle/stargazers) — The most widely used open-source LMS, featuring a mature Quiz engine, extensive question types, question banks, and strong community support. Can be hardened for secure exams with **Safe Exam Browser** and proctoring plugins.
+- **[TAO Testing](https://www.taotesting.com/)** [![GitHub stars](https://img.shields.io/github/stars/oat-sa/package-tao.svg?style=social&color=white)](https://github.com/oat-sa/package-tao/stargazers) — Open-source assessment platform with strong support for open standards (especially QTI). Used by educational institutions and testing organizations that need portable, standards-based item banks.
+- **[TCExam](https://github.com/tecnickcom/tcexam)** [![GitHub stars](https://img.shields.io/github/stars/tecnickcom/tcexam.svg?style=social&color=white)](https://github.com/tecnickcom/tcexam/stargazers) — Dedicated open-source Computer-Based Assessment (CBA) system for creating, scheduling, delivering, and reporting on quizzes, tests, and exams. Lightweight, self-hosted, and focused purely on assessment.
+- **[QST](https://github.com/bobb34/QST)** [![GitHub stars](https://img.shields.io/github/stars/bobb34/QST.svg?style=social&color=white)](https://github.com/bobb34/QST/stargazers) — Feature-rich open-source multi-tenant assessment platform supporting many question types, scheduling, results, and self-hosting.
 
 ### Proctoring & Secure Delivery Components
 - Open-source proctoring projects and plugins (including components from Open edX and community tools) that provide webcam monitoring, lockdown browser integration, or basic integrity checks.
