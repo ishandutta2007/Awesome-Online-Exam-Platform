@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Online Exam Platform Banner" width="100%" />
+</div>
+
 # Awesome-Online-Exam-Platform
 
 # Similar Projects to Online Exam Platforms
